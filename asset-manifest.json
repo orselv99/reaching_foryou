@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.39fc9907.chunk.js",
-    "main.js.map": "/static/js/main.39fc9907.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.719eab44.js",
-    "runtime-main.js.map": "/static/js/runtime-main.719eab44.js.map",
-    "static/js/2.cdc66e28.chunk.js": "/static/js/2.cdc66e28.chunk.js",
-    "static/js/2.cdc66e28.chunk.js.map": "/static/js/2.cdc66e28.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.cdc66e28.chunk.js.LICENSE.txt": "/static/js/2.cdc66e28.chunk.js.LICENSE.txt"
+    "main.js": "/reaching_foryou/static/js/main.39fc9907.chunk.js",
+    "main.js.map": "/reaching_foryou/static/js/main.39fc9907.chunk.js.map",
+    "runtime-main.js": "/reaching_foryou/static/js/runtime-main.304691e9.js",
+    "runtime-main.js.map": "/reaching_foryou/static/js/runtime-main.304691e9.js.map",
+    "static/js/2.cdc66e28.chunk.js": "/reaching_foryou/static/js/2.cdc66e28.chunk.js",
+    "static/js/2.cdc66e28.chunk.js.map": "/reaching_foryou/static/js/2.cdc66e28.chunk.js.map",
+    "index.html": "/reaching_foryou/index.html",
+    "static/js/2.cdc66e28.chunk.js.LICENSE.txt": "/reaching_foryou/static/js/2.cdc66e28.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.719eab44.js",
+    "static/js/runtime-main.304691e9.js",
     "static/js/2.cdc66e28.chunk.js",
     "static/js/main.39fc9907.chunk.js"
   ]

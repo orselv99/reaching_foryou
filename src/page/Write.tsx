@@ -20,7 +20,10 @@ export const Write = () => {
             ],
             handlers: {}
         },
-        theme: 'snow'
+        theme: 'snow',
+        width: '800px',
+        minWidth: '600px',
+        preview: true,
     };
 
     return <div>
